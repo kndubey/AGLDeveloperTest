@@ -1,0 +1,8 @@
+
+AGLDeveloperTest/bin/Debug/
+
+AGLDeveloperTest/obj/Debug/
+
+*.pdb
+
+AGLDeveloperUnitTest/obj/Debug/
